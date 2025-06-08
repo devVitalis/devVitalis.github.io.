@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Android apps and console-based projects**
 - ✅ I’ve mastered **Java** and love building robust back-end logic with it
 - 👯 I’m looking to collaborate on **Android-based solutions and remote projects**
-- 📫 How to reach me: **appvitalisdft@gmail.com**
+- 📫 How to reach me: **vitaliscodespace@gmail.com**
 - 🎮 Call of Duty: Mobile OP gamer (two-finger clutch master 🕹️)
 
 ---
